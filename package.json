@@ -17,7 +17,12 @@
     "nodemon": "^3.0.2",
     "supertest": "^6.3.4"
   },
-  "keywords": ["nodejs", "express", "rest-api", "student-management"],
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "student-management"
+  ],
   "author": "",
   "license": "ISC"
 }

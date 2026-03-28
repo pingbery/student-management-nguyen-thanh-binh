@@ -1,4 +1,4 @@
-# 🎓 Student Management API
+# 🎓 Student Management
 
 REST API Quản lý Sinh viên xây dựng bằng Node.js + Express, tuân thủ mô hình **3-layer architecture**.
 
@@ -7,7 +7,7 @@ REST API Quản lý Sinh viên xây dựng bằng Node.js + Express, tuân thủ
 ## 📁 Cấu trúc dự án
 
 ```
-student-management-api/
+student-management/
 ├── src/
 │   ├── models/
 │   │   └── Student.js              # Định nghĩa cấu trúc dữ liệu sinh viên
